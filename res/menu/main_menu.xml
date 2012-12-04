@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_start" android:title="@string/start"></item>
+    <item android:id="@+id/menu_stop" android:title="@string/stop"></item>
+    
+    <item android:id="@+id/menu_install" android:title="@string/install">
+        <menu>
+            <item android:id="@+id/menu_install_log" android:title="@string/install_log"></item>
+            <item android:id="@+id/menu_install_cxf" android:title="@string/install_cxf"></item>
+            <item android:id="@+id/menu_install_cxf_consumer" android:title="@string/install_cxf_consumer"></item>
+        </menu>
+    </item>
+</menu>

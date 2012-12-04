@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">AAF Sample</string>
+    <string name="title_activity_main">AAF Sample</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="install">Install</string>
+    <string name="install_cxf">Apache CXF</string>
+    <string name="install_log">Apache Felix Log</string>
+    <string name="install_cxf_consumer">CXF Consumer Sample</string>
+
+</resources>
